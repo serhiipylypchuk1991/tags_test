@@ -15,7 +15,7 @@ $ cd docs-kanban
 $ yarn
 ```
 
-### 3. Run documentation on the local server and explore it
+### 3. Run the documentation on the local server and explore it
 
 ```
 $ yarn start
