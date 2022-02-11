@@ -6,20 +6,20 @@ JavaScript Kanban is an effective solution for the workflow visualization. The w
 
 To run the Kanban documentation locally, take the following steps:
 
-### 1. Clone the documentation to the locale folder
+#### 1. Clone the documentation to the locale folder
 
 ```
 $ git clone git@github.com:DHTMLX/docs-kanban.git
 $ cd docs-kanban
 ```
 
-### 2. Install dependencies
+#### 2. Install dependencies
 
 ```
 $ yarn
 ```
 
-### 3. Run the documentation on the local server and explore it
+#### 3. Run the documentation on the local server and explore it
 
 ```
 $ yarn start
