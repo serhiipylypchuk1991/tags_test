@@ -47,6 +47,6 @@ Follow us on [Twitter](https://twitter.com/dhtmlx) :feet:
 
 Like our page on [Facebook](https://www.facebook.com/dhtmlx/) :thumbsup:
 
-See our news on [Linkedin](https://www.linkedin.com/groups/3345009/) :ear:
+See our news on [Linkedin](https://www.linkedin.com/groups/3345009/) :mega:
 
 
