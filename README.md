@@ -31,9 +31,9 @@ $ yarn start
 
 [Live demos](https://snippet.dhtmlx.com/5hcx01h4?mode=wide&text=#kanban)
 
-[Blog](https://dhtmlx.com/blog/)
+[Blog](https://dhtmlx.com/blog/tag/kanban/)
 
-[Forum](https://forum.dhtmlx.com/c/widgets/)
+[Forum](https://forum.dhtmlx.com/c/widgets/kanban)
 
 ## Follow us
 
