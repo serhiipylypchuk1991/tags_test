@@ -29,7 +29,7 @@ $ yarn start
 
 [Download DHTMLX Kanban](https://dhtmlx.com/docs/products/dhtmlxKanban/download.shtml)
 
-[Live demos](https://snippet.dhtmlx.com/61crsls3?mode=wide&text=#kanban)
+[Live demos](https://snippet.dhtmlx.com/5hcx01h4?mode=wide&text=#kanban)
 
 [Blog](https://dhtmlx.com/blog/)
 
